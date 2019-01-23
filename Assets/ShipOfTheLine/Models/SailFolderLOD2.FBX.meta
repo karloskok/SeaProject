@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 878746b32604b924694069a8bd310fed
+timeCreated: 1440500634
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone013
+    100002: RopeSail017
+    100004: RopeSail018
+    100006: RopeSail019
+    100008: RopeSail020
+    100010: RopeSail021
+    100012: RopeSail022
+    100014: SailFolderLD2
+    100016: //RootNode
+    100018: SailFolderLOD2
+    100020: Bone009
+    100022: RopeSailLD2_001
+    100024: RopeSailLD2_002
+    100026: RopeSailLD2_003
+    100028: RopeSailLD2_004
+    100030: RopeSailLD2_005
+    100032: SailFolderLD3_001
+    100034: SailLD2_001
+    100036: SailFolderLD2_001
+    100038: SailFolderLD2_001 1
+    100040: Bone001
+    400000: Bone013
+    400002: RopeSail017
+    400004: RopeSail018
+    400006: RopeSail019
+    400008: RopeSail020
+    400010: RopeSail021
+    400012: RopeSail022
+    400014: SailFolderLD2
+    400016: //RootNode
+    400018: SailFolderLOD2
+    400020: Bone009
+    400022: RopeSailLD2_001
+    400024: RopeSailLD2_002
+    400026: RopeSailLD2_003
+    400028: RopeSailLD2_004
+    400030: RopeSailLD2_005
+    400032: SailFolderLD3_001
+    400034: SailLD2_001
+    400036: SailFolderLD2_001
+    400038: SailFolderLD2_001 1
+    400040: Bone001
+    2300000: SailFolderLOD2
+    3300000: SailFolderLOD2
+    4300000: SailFolderLOD2
+    4300002: RopeSail017
+    4300004: RopeSail018
+    4300006: RopeSail019
+    4300008: RopeSail020
+    4300010: RopeSail022
+    4300012: RopeSail021
+    4300014: SailFolderLD3_001
+    4300016: RopeSailLD2_001
+    4300018: RopeSailLD2_002
+    4300020: RopeSailLD2_003
+    4300022: RopeSailLD2_004
+    4300024: RopeSailLD2_005
+    4300026: SailFolderLD2_001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: RopeSail017
+    13700002: RopeSail018
+    13700004: RopeSail019
+    13700006: RopeSail020
+    13700008: RopeSail021
+    13700010: RopeSail022
+    13700012: RopeSailLD2_001
+    13700014: RopeSailLD2_002
+    13700016: RopeSailLD2_003
+    13700018: RopeSailLD2_004
+    13700020: RopeSailLD2_005
+    13700022: SailFolderLD3_001
+    13700024: SailFolderLD2_001 1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

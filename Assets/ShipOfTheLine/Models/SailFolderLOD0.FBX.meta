@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: ab6c1a6bdb8cddd42beb00063c82099a
+timeCreated: 1440501003
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone009
+    100002: RopeSail
+    100004: RopeSail001
+    100006: RopeSail002
+    100008: RopeSail003
+    100010: RopeSail004
+    100012: RopeSail005
+    100014: SailFolder
+    100016: SailFolderLD0
+    100018: //RootNode
+    100020: RopeSailLD0_001
+    100022: SailFolderLD0_001 1
+    100024: SailFolderLD0_001
+    100026: Bone001
+    400000: Bone009
+    400002: RopeSail
+    400004: RopeSail001
+    400006: RopeSail002
+    400008: RopeSail003
+    400010: RopeSail004
+    400012: RopeSail005
+    400014: SailFolder
+    400016: SailFolderLD0
+    400018: //RootNode
+    400020: RopeSailLD0_001
+    400022: SailFolderLD0_001 1
+    400024: SailFolderLD0_001
+    400026: Bone001
+    2300000: SailFolder
+    2300002: RopeSailLD0_001
+    2300004: SailFolderLD0_001 1
+    3300000: SailFolder
+    3300002: RopeSailLD0_001
+    3300004: SailFolderLD0_001 1
+    4300000: SailFolder
+    4300002: RopeSail
+    4300004: RopeSail001
+    4300006: RopeSail002
+    4300008: RopeSail003
+    4300010: RopeSail004
+    4300012: RopeSail005
+    4300014: SailFolderLD0_001
+    4300016: RopeSailLD0_001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: RopeSail
+    13700002: RopeSail001
+    13700004: RopeSail002
+    13700006: RopeSail003
+    13700008: RopeSail004
+    13700010: RopeSail005
+    13700012: RopeSailLD0_001
+    13700014: SailFolderLD0_001 1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

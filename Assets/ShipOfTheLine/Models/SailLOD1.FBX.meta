@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 0b37d791c72769a4cbb5e3675cd75dc9
+timeCreated: 1440504248
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone011
+    100002: RopeSail006
+    100004: RopeSail012
+    100006: RopeSail013
+    100008: RopeSail014
+    100010: RopeSail015
+    100012: RopeSail016
+    100014: SailLD1
+    100016: SailLD1 1
+    100018: //RootNode
+    100020: Bone014
+    100022: RopeSail023
+    100024: RopeSail024
+    100026: RopeSail025
+    100028: RopeSail026
+    100030: RopeSail027
+    100032: RopeSail028
+    100034: SailLD1_001
+    100036: Bone009
+    100038: RopeSail
+    100040: RopeSail001
+    100042: RopeSail002
+    100044: RopeSail003
+    100046: RopeSail004
+    100048: RopeSail005
+    100050: SailLD0
+    100052: SailLOD0
+    100054: Group001
+    100056: SailLOD001
+    100058: RopeSail029
+    100060: RopeSail030
+    100062: RopeSail031
+    100064: RopeSail032
+    100066: RopeSail033
+    100068: RopeSail034
+    100070: SailLD1_001 1
+    100072: RopeSailLD1_001
+    100074: RopeSailLD1_002
+    100076: RopeSailLD1_003
+    100078: RopeSailLD1_004
+    100080: RopeSailLD1_005
+    100082: RopeSailLD1_006
+    100084: Bone001
+    400000: Bone011
+    400002: RopeSail006
+    400004: RopeSail012
+    400006: RopeSail013
+    400008: RopeSail014
+    400010: RopeSail015
+    400012: RopeSail016
+    400014: SailLD1
+    400016: SailLD1 1
+    400018: //RootNode
+    400020: Bone014
+    400022: RopeSail023
+    400024: RopeSail024
+    400026: RopeSail025
+    400028: RopeSail026
+    400030: RopeSail027
+    400032: RopeSail028
+    400034: SailLD1_001
+    400036: Bone009
+    400038: RopeSail
+    400040: RopeSail001
+    400042: RopeSail002
+    400044: RopeSail003
+    400046: RopeSail004
+    400048: RopeSail005
+    400050: SailLD0
+    400052: SailLOD0
+    400054: Group001
+    400056: SailLOD001
+    400058: RopeSail029
+    400060: RopeSail030
+    400062: RopeSail031
+    400064: RopeSail032
+    400066: RopeSail033
+    400068: RopeSail034
+    400070: SailLD1_001 1
+    400072: RopeSailLD1_001
+    400074: RopeSailLD1_002
+    400076: RopeSailLD1_003
+    400078: RopeSailLD1_004
+    400080: RopeSailLD1_005
+    400082: RopeSailLD1_006
+    400084: Bone001
+    2300000: RopeSail023
+    2300002: RopeSail024
+    2300004: RopeSail025
+    2300006: RopeSail026
+    2300008: RopeSail027
+    2300010: RopeSail028
+    2300012: SailLOD001
+    2300014: RopeSail029
+    2300016: RopeSail030
+    2300018: RopeSail031
+    2300020: RopeSail032
+    2300022: RopeSail033
+    2300024: RopeSail034
+    2300026: SailLD1_001 1
+    2300028: RopeSailLD1_001
+    3300000: RopeSail023
+    3300002: RopeSail024
+    3300004: RopeSail025
+    3300006: RopeSail026
+    3300008: RopeSail027
+    3300010: RopeSail028
+    3300012: SailLOD001
+    3300014: RopeSail029
+    3300016: RopeSail030
+    3300018: RopeSail031
+    3300020: RopeSail032
+    3300022: RopeSail033
+    3300024: RopeSail034
+    3300026: SailLD1_001 1
+    3300028: RopeSailLD1_001
+    4300000: SailLD1
+    4300002: RopeSail006
+    4300004: RopeSail012
+    4300006: RopeSail013
+    4300008: RopeSail014
+    4300010: RopeSail015
+    4300012: RopeSail016
+    4300014: SailLD1_001
+    4300016: RopeSail028
+    4300018: RopeSail027
+    4300020: RopeSail026
+    4300022: RopeSail025
+    4300024: RopeSail024
+    4300026: RopeSail023
+    4300028: SailLOD0
+    4300030: RopeSail005
+    4300032: RopeSail004
+    4300034: RopeSail003
+    4300036: RopeSail002
+    4300038: RopeSail001
+    4300040: RopeSail
+    4300042: SailLOD001
+    4300044: RopeSail029
+    4300046: RopeSail033
+    4300048: RopeSail032
+    4300050: RopeSail034
+    4300052: RopeSail030
+    4300054: RopeSail031
+    4300056: RopeSailLD1_004
+    4300058: RopeSailLD1_006
+    4300060: RopeSailLD1_002
+    4300062: RopeSailLD1_003
+    4300064: RopeSailLD1_001
+    4300066: RopeSailLD1_005
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: RopeSail006
+    13700002: RopeSail012
+    13700004: RopeSail013
+    13700006: RopeSail014
+    13700008: RopeSail015
+    13700010: RopeSail016
+    13700012: SailLD1 1
+    13700014: RopeSail023
+    13700016: RopeSail024
+    13700018: RopeSail025
+    13700020: RopeSail026
+    13700022: RopeSail027
+    13700024: RopeSail028
+    13700026: SailLD1_001
+    13700028: RopeSail
+    13700030: RopeSail001
+    13700032: RopeSail002
+    13700034: RopeSail003
+    13700036: RopeSail004
+    13700038: RopeSail005
+    13700040: SailLOD0
+    13700042: SailLOD001
+    13700044: RopeSail029
+    13700046: RopeSail030
+    13700048: RopeSail031
+    13700050: RopeSail032
+    13700052: RopeSail033
+    13700054: RopeSail034
+    13700056: SailLD1_001 1
+    13700058: RopeSailLD1_001
+    13700060: RopeSailLD1_002
+    13700062: RopeSailLD1_003
+    13700064: RopeSailLD1_004
+    13700066: RopeSailLD1_005
+    13700068: RopeSailLD1_006
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone011
+        weight: 1
+      - path: SailLD1
+        weight: 1
+      - path: SailLD1/RopeSail006
+        weight: 1
+      - path: SailLD1/RopeSail012
+        weight: 1
+      - path: SailLD1/RopeSail013
+        weight: 1
+      - path: SailLD1/RopeSail014
+        weight: 1
+      - path: SailLD1/RopeSail015
+        weight: 1
+      - path: SailLD1/RopeSail016
+        weight: 1
+      - path: SailLD1/SailLD1 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 4c22f90e959578f4fa546e32abfb8eef
+timeCreated: 1440522082
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone009
+    100002: RopeSailLD3_001
+    100004: RopeSailLD3_002
+    100006: RopeSailLD3_003
+    100008: RopeSailLD3_004
+    100010: RopeSailLD3_005
+    100012: RopeSailLD3_006
+    100014: SailFolderLD3_001
+    100016: SailFolderLD3_001 1
+    100018: //RootNode
+    100020: Bone001
+    400000: Bone009
+    400002: RopeSailLD3_001
+    400004: RopeSailLD3_002
+    400006: RopeSailLD3_003
+    400008: RopeSailLD3_004
+    400010: RopeSailLD3_005
+    400012: RopeSailLD3_006
+    400014: SailFolderLD3_001
+    400016: SailFolderLD3_001 1
+    400018: //RootNode
+    400020: Bone001
+    4300000: SailFolderLD3_001
+    4300002: RopeSailLD3_001
+    4300004: RopeSailLD3_002
+    4300006: RopeSailLD3_003
+    4300008: RopeSailLD3_004
+    4300010: RopeSailLD3_005
+    4300012: RopeSailLD3_006
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: RopeSailLD3_001
+    13700002: RopeSailLD3_002
+    13700004: RopeSailLD3_003
+    13700006: RopeSailLD3_004
+    13700008: RopeSailLD3_005
+    13700010: RopeSailLD3_006
+    13700012: SailFolderLD3_001 1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: SailFolderLD3_001
+        weight: 1
+      - path: SailFolderLD3_001/RopeSailLD3_001
+        weight: 1
+      - path: SailFolderLD3_001/RopeSailLD3_002
+        weight: 1
+      - path: SailFolderLD3_001/RopeSailLD3_003
+        weight: 1
+      - path: SailFolderLD3_001/RopeSailLD3_004
+        weight: 1
+      - path: SailFolderLD3_001/RopeSailLD3_005
+        weight: 1
+      - path: SailFolderLD3_001/RopeSailLD3_006
+        weight: 1
+      - path: SailFolderLD3_001/SailFolderLD3_001 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
